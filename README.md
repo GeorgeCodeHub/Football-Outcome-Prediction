@@ -1,7 +1,13 @@
 # Football Outcome Prediction
 The project's goal was the analysis of european football matches and the use of Neural Networks for match outcome prediction.
 
+![predB365](https://github.com/GeorgeCodeHub/Football-outcome-prediction/blob/main/Images/PredictionsB365.png)
 
+![predBW](https://github.com/GeorgeCodeHub/Football-outcome-prediction/blob/main/Images/PredictionsBW.png)
+
+![predIW](https://github.com/GeorgeCodeHub/Football-outcome-prediction/blob/main/Images/PredictionsIW.png)
+
+![predLB](https://github.com/GeorgeCodeHub/Football-outcome-prediction/blob/main/Images/PredictionsLB.png)
 
 Dataset: [Source](https://www.kaggle.com/datasets/hugomathien/soccer?datasetId=63&searchQuery=pre)
 
